@@ -1,4 +1,4 @@
-# NLP_topic_labelling
+# Tweets Topic Labelling
 this projects contains a nlp pipeline for topic labelling with BERTopic
 
 Here is an example of topic hierarchy tree from tweets. 
